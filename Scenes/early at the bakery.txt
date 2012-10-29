@@ -4,4 +4,4 @@ Having dispathced the pies he turned to the first customer of the day.
 
 "What can I do for you Mrs. Horton?" he asked.
 
-[chr:the pie][chr:sarah horton][set:bakery][pre:eating a pie]
+[aut:barry][chr:the pie][chr:sarah horton][set:bakery][pre:eating a pie]
