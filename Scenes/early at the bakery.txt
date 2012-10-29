@@ -1,0 +1,7 @@
+It was early in the morning when Maurice the baker pulled, what was to be the best batch of pies he would ever make, from the hot oven. One in particular out shone the rest, but like the others it was racked and packed and dispated to the pie vendor who's concession stood on the mezzine at Brighton Station.
+
+Having dispathced the pies he turned to the first customer of the day.
+
+"What can I do for you Mrs. Horton?" he asked.
+
+[chr:the pie][chr:sarah horton][set:bakery][pre:eating a pie]

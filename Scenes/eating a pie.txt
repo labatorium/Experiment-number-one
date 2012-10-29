@@ -1,0 +1,3 @@
+David thought he would console himself with a delicious pie from Gregs the bakers.
+
+[pre:arrival by train][chr:david horton][chr:the pie][set:brighton station]

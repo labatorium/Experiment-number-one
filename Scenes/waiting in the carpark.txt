@@ -1,0 +1,3 @@
+Sarah Horton sat in her car waiting for the 11:45am train to roll in to the station.
+
+[pre:arrival by train][chr:sarah horton][set:brighton station carpark]
