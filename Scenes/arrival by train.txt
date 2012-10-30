@@ -1,5 +1,0 @@
-David Horton arrived mid-morning at Brighton Station. Getting off the train, suitcase in hand, he drank in the feeling of a new place, a new begining.
-
-[aut:lucsan]
-[chr:david horton]
-[set:brighton station] 
